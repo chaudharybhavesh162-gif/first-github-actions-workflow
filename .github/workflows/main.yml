@@ -9,8 +9,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      -name: greetings
-       run: echo "helloo guy"
+      - name: greetings
+        run: echo "helloo guy"
 
   
   
